@@ -1,0 +1,12 @@
+.\objects\lv_font_dejavu_40_latin_sup.o: ..\lvgl\lv_fonts\lv_font_dejavu_40_latin_sup.c
+.\objects\lv_font_dejavu_40_latin_sup.o: ..\lvgl\lv_fonts\../lv_misc/lv_font.h
+.\objects\lv_font_dejavu_40_latin_sup.o: ..\lvgl\lv_conf.h
+.\objects\lv_font_dejavu_40_latin_sup.o: ..\lvgl\lvgl/lv_conf_checker.h
+.\objects\lv_font_dejavu_40_latin_sup.o: D:\develop\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lv_font_dejavu_40_latin_sup.o: D:\develop\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\lv_font_dejavu_40_latin_sup.o: D:\develop\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\lv_font_dejavu_40_latin_sup.o: ..\lvgl\lv_fonts\../lv_misc/lv_symbol_def.h
+.\objects\lv_font_dejavu_40_latin_sup.o: ..\lvgl\lv_conf.h
+.\objects\lv_font_dejavu_40_latin_sup.o: ..\lvgl\lv_fonts\../lv_misc/../lv_fonts/lv_font_builtin.h
+.\objects\lv_font_dejavu_40_latin_sup.o: ..\lvgl\lv_conf.h
+.\objects\lv_font_dejavu_40_latin_sup.o: ..\lvgl\lv_fonts\../lv_misc/../lv_fonts/../lv_misc/lv_font.h

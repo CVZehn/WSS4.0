@@ -4,13 +4,13 @@
 .\objects\lv_draw_vbasic.o: ..\lvgl\lvgl/lv_conf_checker.h
 .\objects\lv_draw_vbasic.o: ..\lvgl\lv_draw\../lv_misc/lv_color.h
 .\objects\lv_draw_vbasic.o: ..\lvgl\lv_conf.h
-.\objects\lv_draw_vbasic.o: D:\develop\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lv_draw_vbasic.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\lv_draw_vbasic.o: ..\lvgl\lv_draw\../lv_misc/lv_area.h
-.\objects\lv_draw_vbasic.o: D:\develop\ARM\ARMCC\Bin\..\include\string.h
-.\objects\lv_draw_vbasic.o: D:\develop\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\lv_draw_vbasic.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\string.h
+.\objects\lv_draw_vbasic.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\stdbool.h
 .\objects\lv_draw_vbasic.o: ..\lvgl\lv_draw\../lv_misc/lv_font.h
 .\objects\lv_draw_vbasic.o: ..\lvgl\lv_conf.h
-.\objects\lv_draw_vbasic.o: D:\develop\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\lv_draw_vbasic.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\lv_draw_vbasic.o: ..\lvgl\lv_draw\../lv_misc/lv_symbol_def.h
 .\objects\lv_draw_vbasic.o: ..\lvgl\lv_conf.h
 .\objects\lv_draw_vbasic.o: ..\lvgl\lv_draw\../lv_misc/../lv_fonts/lv_font_builtin.h

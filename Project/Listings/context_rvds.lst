@@ -364,10 +364,10 @@ ARM Macro Assembler    Page 6
               E000ED08 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4.fp --apcs=int
 erwork --depend=.\objects\context_rvds.d -o.\objects\context_rvds.o -I.\RTE\_rt
--thread_stm32f4xx -ID:\develop\ARM\PACK\Keil\STM32F4xx_DFP\2.3.0\Drivers\CMSIS\
-Device\ST\STM32F4xx\Include -ID:\develop\ARM\CMSIS\Include --predefine="__UVISI
-ON_VERSION SETA 526" --predefine="STM32F407xx SETA 1" --list=.\listings\context
-_rvds.lst ..\rt-thread\libcpu\arm\cortex-m4\context_rvds.S
+-thread_stm32f4xx -ID:\develop\keil\ARM\PACK\Keil\STM32F4xx_DFP\2.3.0\Drivers\C
+MSIS\Device\ST\STM32F4xx\Include -ID:\develop\keil\ARM\CMSIS\Include --predefin
+e="__UVISION_VERSION SETA 526" --predefine="STM32F407xx SETA 1" --list=.\listin
+gs\context_rvds.lst ..\rt-thread\libcpu\arm\cortex-m4\context_rvds.S
 
 
 

@@ -2,7 +2,7 @@
 .\objects\bsp_lcd.o: ..\Bsp\Drivers\Bsp_LCD\Bsp_LCD.h
 .\objects\bsp_lcd.o: ..\Bsp\Libraries\CMSIS\Device\Include\stm32f4xx.h
 .\objects\bsp_lcd.o: ..\Bsp\Libraries\CMSIS\Include\core_cm4.h
-.\objects\bsp_lcd.o: D:\develop\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\bsp_lcd.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\bsp_lcd.o: ..\Bsp\Libraries\CMSIS\Include\core_cmInstr.h
 .\objects\bsp_lcd.o: ..\Bsp\Libraries\CMSIS\Include\core_cmFunc.h
 .\objects\bsp_lcd.o: ..\Bsp\Libraries\CMSIS\Include\core_cmSimd.h
@@ -35,5 +35,5 @@
 .\objects\bsp_lcd.o: ..\Bsp\Libraries\inc\stm32f4xx_dac.h
 .\objects\bsp_lcd.o: ..\Bsp\Libraries\inc\stm32f4xx_dcmi.h
 .\objects\bsp_lcd.o: ..\Bsp\Libraries\inc\stm32f4xx_fsmc.h
-.\objects\bsp_lcd.o: D:\develop\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\bsp_lcd.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\stdlib.h
 .\objects\bsp_lcd.o: ..\Bsp\System\delay\delay.h

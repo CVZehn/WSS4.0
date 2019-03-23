@@ -4,10 +4,10 @@
 .\objects\lv_vdb.o: ..\lvgl\lvgl/lv_conf_checker.h
 .\objects\lv_vdb.o: ..\lvgl\lv_core\../lv_misc/lv_color.h
 .\objects\lv_vdb.o: ..\lvgl\lv_conf.h
-.\objects\lv_vdb.o: D:\develop\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lv_vdb.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\lv_vdb.o: ..\lvgl\lv_core\../lv_misc/lv_area.h
-.\objects\lv_vdb.o: D:\develop\ARM\ARMCC\Bin\..\include\string.h
-.\objects\lv_vdb.o: D:\develop\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\lv_vdb.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\string.h
+.\objects\lv_vdb.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\stdbool.h
 .\objects\lv_vdb.o: ..\lvgl\lv_core\../lv_hal/lv_hal_disp.h
 .\objects\lv_vdb.o: ..\lvgl\lv_core\../lv_hal/lv_hal.h
 .\objects\lv_vdb.o: ..\lvgl\lv_core\../lv_hal/lv_hal_disp.h
@@ -15,7 +15,7 @@
 .\objects\lv_vdb.o: ..\lvgl\lv_core\../lv_hal/lv_hal.h
 .\objects\lv_vdb.o: ..\lvgl\lv_core\../lv_hal/../lv_core/lv_obj.h
 .\objects\lv_vdb.o: ..\lvgl\lv_conf.h
-.\objects\lv_vdb.o: D:\develop\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\lv_vdb.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\lv_vdb.o: ..\lvgl\lv_core\../lv_hal/../lv_core/lv_style.h
 .\objects\lv_vdb.o: ..\lvgl\lv_core\../lv_hal/../lv_core/../lv_misc/lv_font.h
 .\objects\lv_vdb.o: ..\lvgl\lv_conf.h

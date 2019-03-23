@@ -1,7 +1,7 @@
 .\objects\hzcharpex.o: ..\Applications\font\HZCharPEx.c
 .\objects\hzcharpex.o: ..\Bsp\Libraries\CMSIS\Device\Include\stm32f4xx.h
 .\objects\hzcharpex.o: ..\Bsp\Libraries\CMSIS\Include\core_cm4.h
-.\objects\hzcharpex.o: D:\develop\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\hzcharpex.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\hzcharpex.o: ..\Bsp\Libraries\CMSIS\Include\core_cmInstr.h
 .\objects\hzcharpex.o: ..\Bsp\Libraries\CMSIS\Include\core_cmFunc.h
 .\objects\hzcharpex.o: ..\Bsp\Libraries\CMSIS\Include\core_cmSimd.h
@@ -34,12 +34,12 @@
 .\objects\hzcharpex.o: ..\Bsp\Libraries\inc\stm32f4xx_dac.h
 .\objects\hzcharpex.o: ..\Bsp\Libraries\inc\stm32f4xx_dcmi.h
 .\objects\hzcharpex.o: ..\Bsp\Libraries\inc\stm32f4xx_fsmc.h
-.\objects\hzcharpex.o: D:\develop\ARM\ARMCC\Bin\..\include\string.h
+.\objects\hzcharpex.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\string.h
 .\objects\hzcharpex.o: ..\lvgl\lv_misc/lv_font.h
 .\objects\hzcharpex.o: ..\lvgl\lv_conf.h
 .\objects\hzcharpex.o: ..\lvgl\lvgl/lv_conf_checker.h
-.\objects\hzcharpex.o: D:\develop\ARM\ARMCC\Bin\..\include\stddef.h
-.\objects\hzcharpex.o: D:\develop\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\hzcharpex.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\hzcharpex.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\stdbool.h
 .\objects\hzcharpex.o: ..\lvgl\lv_misc/lv_symbol_def.h
 .\objects\hzcharpex.o: ..\lvgl\lv_conf.h
 .\objects\hzcharpex.o: ..\lvgl\lv_misc/../lv_fonts/lv_font_builtin.h

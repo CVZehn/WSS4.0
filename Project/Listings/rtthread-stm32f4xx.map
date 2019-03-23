@@ -4516,8 +4516,8 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Object Name
 
-       188         24          0          0          0      27327   board.o
-      1372         16          0          0          0       4566   bsp_lcd.o
+       188         24          0          0          0      27331   board.o
+      1372         16          0          0          0       4570   bsp_lcd.o
        108          6          0          4          0       1596   clock.o
       4412       1430       1685          4          0      18276   cmd.o
        460        128         57          0          0       4859   completion.o
@@ -4528,77 +4528,77 @@ Image component sizes
        276         12          0          9          0       1797   delay.o
       2156        282        105         16        780       7518   demo.o
       1324        312        201          0          0       5774   device.o
-      6168        154          0          8          0       9858   finsh_compiler.o
+      6168        154          0          8          0       9866   finsh_compiler.o
         44         10        243         64          0       1761   finsh_error.o
        528         18          0          8        128       3471   finsh_heap.o
         88          6          0          0          0       1736   finsh_init.o
        388          4          0          0        320       3512   finsh_node.o
       2780         36        196          0          0       8892   finsh_ops.o
       2428         32          0          0          0       9821   finsh_parser.o
-      1664         16        126          0          0       6320   finsh_token.o
-       412         18          0          4        192       6361   finsh_var.o
-       228         34          0         12        384       5440   finsh_vm.o
+      1664         16        126          0          0       6328   finsh_token.o
+       412         18          0          4        192       6369   finsh_var.o
+       228         34          0         12        384       5448   finsh_vm.o
        508         78         22          0       1168       5708   idle.o
       7176       1040        849          0          0      22447   ipc.o
        140         14          0          9          0       1944   irq.o
       2756        232        290         12        128      12592   kservice.o
-        24          0          0          0          0     318375   lcd_test.o
+        24          0          0          0          0     318451   lcd_test.o
        180          4          0          0          0       1035   led.o
-      1378        108          0          5          0       7479   lv_anim.o
-         0          0          0          0          0      15154   lv_arc.o
-       534          0          0          0          0       4183   lv_area.o
-      1652        118          0          8          0      19584   lv_bar.o
-      2964        222          0         24          0      12143   lv_btn.o
+      1378        108          0          5          0       7503   lv_anim.o
+         0          0          0          0          0      15190   lv_arc.o
+       534          0          0          0          0       4191   lv_area.o
+      1652        118          0          8          0      19612   lv_bar.o
+      2964        222          0         24          0      12147   lv_btn.o
       4084        178         45         36          0      12656   lv_btnm.o
-         0          0          0          0          0       1128   lv_calendar.o
-      3602        136          0          8          0      24288   lv_chart.o
-        98          0          0          0          0       2061   lv_circ.o
-      2832        112          0          4          0       9288   lv_cont.o
-       252          8         52         32          0      14281   lv_draw.o
-      3732        822          0         44        512      17433   lv_draw_img.o
-      1020         20          0          0          0       7146   lv_draw_label.o
-      5060         18          0          0          0       6271   lv_draw_line.o
-         0          0          0          0          0       3912   lv_draw_rbasic.o
-     11584         74          8          0          0      19661   lv_draw_rect.o
-      3024        130          2          2        960      10717   lv_draw_vbasic.o
-       478          0          0          0          0       5945   lv_font.o
+         0          0          0          0          0       1136   lv_calendar.o
+      3602        136          0          8          0      24300   lv_chart.o
+        98          0          0          0          0       2069   lv_circ.o
+      2832        112          0          4          0       9296   lv_cont.o
+       252          8         52         32          0      14329   lv_draw.o
+      3732        822          0         44        512      17445   lv_draw_img.o
+      1020         20          0          0          0       7162   lv_draw_label.o
+      5060         18          0          0          0       6279   lv_draw_line.o
+         0          0          0          0          0       3920   lv_draw_rbasic.o
+     11584         74          8          0          0      19673   lv_draw_rect.o
+      3024        130          2          2        960      10733   lv_draw_vbasic.o
+       478          0          0          0          0       5957   lv_font.o
         52         16          0          0          0        515   lv_font_builtin.o
-         0          0          0          0          0       1100   lv_font_dejavu_10.o
+         0          0          0          0          0       1108   lv_font_dejavu_10.o
          0          0       8800         40          0        740   lv_font_dejavu_20.o
          0          0       7276         40          0        801   lv_font_dejavu_20_cyrillic.o
          0          0       9264         40          0        806   lv_font_dejavu_20_latin_sup.o
          0          0       9240         40          0        740   lv_font_symbol_20.o
-      1480         54          0          0          0      10284   lv_fs.o
+      1480         54          0          0          0      10292   lv_fs.o
          0          0          0         28         60        658   lv_gc.o
-      1804         96         38          0          0      20112   lv_group.o
-       648        130          0          4          0      11526   lv_hal_disp.o
-       308        104          0          0          0      12336   lv_hal_indev.o
-        76         10          0          5          0       1628   lv_hal_tick.o
+      1804         96         38          0          0      20156   lv_group.o
+       648        130          0          4          0      11562   lv_hal_disp.o
+       308        104          0          0          0      12368   lv_hal_indev.o
+        76         10          0          5          0       1636   lv_hal_tick.o
       1888        498          0          4          0       5749   lv_img.o
-      3304         86          0          4          0      21617   lv_indev.o
+      3304         86          0          4          0      21645   lv_indev.o
       1536        180        444        616          0      10743   lv_kb.o
-      4152        190          0          4          0      20604   lv_label.o
-      3596        206          0         20          0      29280   lv_list.o
-       774          0          0          0          0       6552   lv_ll.o
-        64          6          0          4          0       2311   lv_log.o
-       416          6          0        182          0       2429   lv_math.o
-      1516        148          0          4          0      19983   lv_mbox.o
-       816         68          0          8      10240       4211   lv_mem.o
-      5992        386          0          1          0      32983   lv_obj.o
-      6344        180          0          8          0      34869   lv_page.o
-      1776        184         80         16        320       6873   lv_refr.o
-         0          0          0          0          0       7746   lv_roller.o
+      4152        190          0          4          0      20616   lv_label.o
+      3596        206          0         20          0      29296   lv_list.o
+       774          0          0          0          0       6572   lv_ll.o
+        64          6          0          4          0       2319   lv_log.o
+       416          6          0        182          0       2433   lv_math.o
+      1516        148          0          4          0      19995   lv_mbox.o
+       816         68          0          8      10240       4219   lv_mem.o
+      5992        386          0          1          0      33015   lv_obj.o
+      6344        180          0          8          0      34909   lv_page.o
+      1776        184         80         16        320       6877   lv_refr.o
+         0          0          0          0          0       7754   lv_roller.o
       2516        120          0          8          0       9310   lv_slider.o
-      2480        126        198          0        780       6294   lv_style.o
-      6420        298         86         16          0      25440   lv_ta.o
-      3928        192          0         16          0      20952   lv_tabview.o
-       940        134          0         20          0       5007   lv_task.o
-       240        104          0          1       7624      12174   lv_theme.o
-      1944         38          0         32          0      11027   lv_txt.o
-      1208         56          0          1          0       9417   lv_ufs.o
-       156         56          0         13      30720       6405   lv_vdb.o
+      2480        126        198          0        780       6298   lv_style.o
+      6420        298         86         16          0      25444   lv_ta.o
+      3928        192          0         16          0      20956   lv_tabview.o
+       940        134          0         20          0       5015   lv_task.o
+       240        104          0          1       7624      12198   lv_theme.o
+      1944         38          0         32          0      11043   lv_txt.o
+      1208         56          0          1          0       9437   lv_ufs.o
+       156         56          0         13      30720       6425   lv_vdb.o
        112         26          0          0          0        543   main.o
-      2232        634        346         32         32       8530   mem.o
+      2232        634        346         32         32       8538   mem.o
        224         20          0          0          0       1933   misc.o
        900        142        147          4          0       5035   msh.o
         34          0        159          0          0       2343   msh_cmd.o
@@ -4614,15 +4614,15 @@ Image component sizes
         64          6          0          0          0       1337   stm32f4xx_iwdg.o
       1628         52          0         16          0      13200   stm32f4xx_rcc.o
       1108         34          0          0          0       8000   stm32f4xx_usart.o
-         0          0          0         16          0       5105   symbol.o
+         0          0          0         16          0       5113   symbol.o
        528         46          0         20          0       1995   system_stm32f4xx.o
-       264         12          0          0          0       6608   tft.o
+       264         12          0          0          0       6628   tft.o
       2016        434        251         12          0      10533   thread.o
       1468        276         92         20          0       9107   timer.o
-      1488        160         96         96        252      38389   usart.o
+      1488        160         96         96        252      38393   usart.o
 
     ----------------------------------------------------------------------
-    161400      13546      41916       1964      56592    1239218   Object Totals
+    161400      13546      41916       1964      56592    1240070   Object Totals
          0          0         32          0          0          0   (incl. Generated)
          6          0         27         28          3          0   (incl. Padding)
 
@@ -4705,8 +4705,8 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   
 
-    163732      13646      42188       1964      56692    1223006   Grand Totals
-    163732      13646      42188        904      56692    1223006   ELF Image Totals (compressed)
+    163732      13646      42188       1964      56692    1223858   Grand Totals
+    163732      13646      42188        904      56692    1223858   ELF Image Totals (compressed)
     163732      13646      42188        904          0          0   ROM Totals
 
 ==============================================================================

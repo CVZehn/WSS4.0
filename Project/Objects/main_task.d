@@ -4,13 +4,13 @@
 .\objects\main_task.o: ..\Project\../lvgl/lv_misc/lv_log.h
 .\objects\main_task.o: ..\lvgl\lv_conf.h
 .\objects\main_task.o: ..\lvgl\lvgl/lv_conf_checker.h
-.\objects\main_task.o: D:\develop\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main_task.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\main_task.o: ..\Project\../lvgl/lv_misc/lv_task.h
 .\objects\main_task.o: ..\lvgl\lv_conf.h
-.\objects\main_task.o: D:\develop\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\main_task.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\stdbool.h
 .\objects\main_task.o: ..\Project\../lvgl/lv_misc/lv_mem.h
 .\objects\main_task.o: ..\lvgl\lv_conf.h
-.\objects\main_task.o: D:\develop\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\main_task.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\main_task.o: ..\Project\../lvgl/lv_misc/lv_ll.h
 .\objects\main_task.o: ..\Project\../lvgl/lv_hal/lv_hal.h
 .\objects\main_task.o: ..\Project\../lvgl/lv_hal/lv_hal_disp.h
@@ -18,7 +18,7 @@
 .\objects\main_task.o: ..\Project\../lvgl/lv_hal/../lv_misc/lv_color.h
 .\objects\main_task.o: ..\lvgl\lv_conf.h
 .\objects\main_task.o: ..\Project\../lvgl/lv_hal/../lv_misc/lv_area.h
-.\objects\main_task.o: D:\develop\ARM\ARMCC\Bin\..\include\string.h
+.\objects\main_task.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\string.h
 .\objects\main_task.o: ..\Project\../lvgl/lv_hal/lv_hal_indev.h
 .\objects\main_task.o: ..\Project\../lvgl/lv_hal/../lv_core/lv_obj.h
 .\objects\main_task.o: ..\lvgl\lv_conf.h
